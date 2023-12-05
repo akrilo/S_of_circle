@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S_of_figure", "S_of_circle\S_of_figure.csproj", "{A5A6382F-7016-4CBE-AFA2-28CD1F1CEC96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area", "area\area.csproj", "{0B988401-7727-485D-BAA5-0D8505D76048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area_units", "area_units\area_units.csproj", "{CE70E210-A4E9-4AE0-B5BE-99ED9817FA43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A6382F-7016-4CBE-AFA2-28CD1F1CEC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A6382F-7016-4CBE-AFA2-28CD1F1CEC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A6382F-7016-4CBE-AFA2-28CD1F1CEC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A6382F-7016-4CBE-AFA2-28CD1F1CEC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B988401-7727-485D-BAA5-0D8505D76048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B988401-7727-485D-BAA5-0D8505D76048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B988401-7727-485D-BAA5-0D8505D76048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B988401-7727-485D-BAA5-0D8505D76048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE70E210-A4E9-4AE0-B5BE-99ED9817FA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE70E210-A4E9-4AE0-B5BE-99ED9817FA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE70E210-A4E9-4AE0-B5BE-99ED9817FA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE70E210-A4E9-4AE0-B5BE-99ED9817FA43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB6F4F91-8A81-4189-B595-152EA428EE08}
+	EndGlobalSection
+EndGlobal
